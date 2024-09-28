@@ -2,6 +2,10 @@
 
 ![Facebook UI](https://github.com/user-attachments/assets/c81e5838-27d7-4978-8d7b-33e4155c1721)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 A new Flutter project.         
 
 ## Getting Started
